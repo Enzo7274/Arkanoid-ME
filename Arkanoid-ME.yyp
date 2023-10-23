@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"spr_jogador","path":"sprites/spr_jogador/spr_jogador.yy",},},
+    {"id":{"name":"spr_jogador_laser","path":"sprites/spr_jogador_laser/spr_jogador_laser.yy",},},
     {"id":{"name":"spr_background_1","path":"sprites/spr_background_1/spr_background_1.yy",},},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"spr_solido","path":"sprites/spr_solido/spr_solido.yy",},},
@@ -42,7 +43,6 @@
     {"id":{"name":"obj_solido","path":"objects/obj_solido/obj_solido.yy",},},
     {"id":{"name":"fnt_padrao","path":"fonts/fnt_padrao/fnt_padrao.yy",},},
     {"id":{"name":"jogador","path":"scripts/jogador/jogador.yy",},},
-    {"id":{"name":"spr_jogador1","path":"sprites/spr_jogador1/spr_jogador1.yy",},},
     {"id":{"name":"obj_poder_giga","path":"objects/obj_poder_giga/obj_poder_giga.yy",},},
     {"id":{"name":"obj_poder_multi","path":"objects/obj_poder_multi/obj_poder_multi.yy",},},
     {"id":{"name":"obj_poder_pai","path":"objects/obj_poder_pai/obj_poder_pai.yy",},},
