@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.7",
-  "name": "BLANK GAME_1",
+  "name": "Arkanoid-ME",
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
@@ -31,16 +31,18 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.0.98",
+    "IDEVersion": "2023.800.0.406",
   },
   "resources": [
+    {"id":{"name":"spr_jogador","path":"sprites/spr_jogador/spr_jogador.yy",},},
+    {"id":{"name":"spr_background_1","path":"sprites/spr_background_1/spr_background_1.yy",},},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"spr_solido","path":"sprites/spr_solido/spr_solido.yy",},},
     {"id":{"name":"spr_poder_laser","path":"sprites/spr_poder_laser/spr_poder_laser.yy",},},
     {"id":{"name":"obj_solido","path":"objects/obj_solido/obj_solido.yy",},},
     {"id":{"name":"fnt_padrao","path":"fonts/fnt_padrao/fnt_padrao.yy",},},
     {"id":{"name":"jogador","path":"scripts/jogador/jogador.yy",},},
-    {"id":{"name":"spr_jogador","path":"sprites/spr_jogador/spr_jogador.yy",},},
+    {"id":{"name":"spr_jogador1","path":"sprites/spr_jogador1/spr_jogador1.yy",},},
     {"id":{"name":"obj_poder_giga","path":"objects/obj_poder_giga/obj_poder_giga.yy",},},
     {"id":{"name":"obj_poder_multi","path":"objects/obj_poder_multi/obj_poder_multi.yy",},},
     {"id":{"name":"obj_poder_pai","path":"objects/obj_poder_pai/obj_poder_pai.yy",},},
